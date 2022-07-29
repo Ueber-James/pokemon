@@ -74,3 +74,11 @@ body {
     transform: rotateY(180deg) scaleX(-1);
     
 }
+
+.imagem:hover {
+
+  transform:  scale(1.4);
+    align-items: center;
+    transition: .5s all ease;
+
+}
